@@ -1,0 +1,6 @@
+{
+  "name": "weather-ci.yml",
+"version:"1.0.0",
+  "script": {
+    "test": "node test.js"}
+}
